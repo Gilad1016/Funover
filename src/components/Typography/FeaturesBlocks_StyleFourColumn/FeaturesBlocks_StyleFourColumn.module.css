@@ -1,0 +1,292 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 529px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.mainFrame {
+  position: absolute;
+  left: 0;
+  top: 36px;
+  width: 1440px;
+  height: 493px;
+  align-items: flex-start;
+  background-color: #20484f;
+  overflow: hidden;
+}
+.weReMoreThanJustAnotheProjectM {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 135px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.headling {
+  color: #fff;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 83px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.blockOne {
+  position: absolute;
+  left: 120px;
+  top: 218px;
+  width: 266px;
+  height: 172px;
+  align-items: flex-start;
+}
+.frame20 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: #dcf2ed;
+  overflow: hidden;
+}
+.alarm {
+  width: 24px;
+  height: 24px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.saveTimeWhenDesigning {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 89px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.yourNewProjectsAreSimplyAClick {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 124px;
+  width: 266px;
+  height: min-content;
+  flex-direction: column;
+}
+.blockTwo {
+  position: absolute;
+  left: 425px;
+  top: 218px;
+  width: 267px;
+  height: 172px;
+  align-items: flex-start;
+}
+.frame21 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: #dcf2ed;
+  overflow: hidden;
+}
+.check_circle_outline {
+  width: 24px;
+  height: 24px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.getUpdatedOnProjects {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1px;
+  top: 89px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.youReceiveNotificationsWheneve {
+  position: absolute;
+  left: 1px;
+  top: 124px;
+  width: 266px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.blockThree {
+  position: absolute;
+  left: 730px;
+  top: 218px;
+  width: 266px;
+  height: 172px;
+  align-items: flex-start;
+}
+.frame22 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: #dcf2ed;
+  overflow: hidden;
+}
+.tab_unselected {
+  width: 24px;
+  height: 24px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.worksOnTheWeb {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 89px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.donTDownloadAnApplicationWhenY {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 124px;
+  width: 266px;
+  height: min-content;
+  flex-direction: column;
+}
+.blockFour {
+  position: absolute;
+  left: 1035px;
+  top: 218px;
+  width: 266px;
+  height: 172px;
+  align-items: flex-start;
+}
+.frame23 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: #dcf2ed;
+  overflow: hidden;
+}
+.fingerprint {
+  width: 24px;
+  height: 24px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.highlySecureInterface {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 89px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.useBiometrics2FAAndMoreToEnsur {
+  position: absolute;
+  left: 0;
+  top: 124px;
+  width: 266px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.divider {
+  position: absolute;
+  left: 0;
+  top: -15px;
+  width: 1440px;
+  height: 51px;
+  background-image:/* webpackIgnore: true */ url('/assets/divider.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

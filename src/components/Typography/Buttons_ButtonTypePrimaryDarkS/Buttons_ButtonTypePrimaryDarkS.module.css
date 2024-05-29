@@ -1,0 +1,22 @@
+.root {
+  position: absolute;
+  left: 32px;
+  top: 32px;
+  width: min-content;
+  height: min-content;
+  padding: 16px 36px 15px;
+  border-radius: 8px;
+  background-color: #20484f;
+  overflow: hidden;
+}
+.signUp {
+  color: #fff;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

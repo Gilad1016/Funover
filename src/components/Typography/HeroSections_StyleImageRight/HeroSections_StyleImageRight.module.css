@@ -1,0 +1,255 @@
+.buttons.buttons {
+  left: 139px;
+  top: 570px;
+}
+.buttons2.buttons2 {
+  left: 295px;
+  top: 570px;
+}
+.signUp {
+  color: #072125;
+  font-size: 18px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 825px;
+  align-items: flex-start;
+  background-color: #fafafa;
+  overflow: hidden;
+}
+.untitled_Artwork31 {
+  position: absolute;
+  left: 367px;
+  top: 281px;
+  width: 412px;
+  height: 233px;
+  background-image:/* webpackIgnore: true */ url('/assets/untitled_Artwork31.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.headline {
+  position: absolute;
+  left: 139px;
+  top: 264px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #072125;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #072125;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.description {
+  position: absolute;
+  left: 139px;
+  top: 450px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #072125;
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #072125;
+  font-size: 24px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.microtitle {
+  color: #20484f;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 139px;
+  top: 217px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.untitled_Artwork21 {
+  position: absolute;
+  left: 805px;
+  top: 80px;
+  width: 541px;
+  height: 601px;
+  background-image:/* webpackIgnore: true */ url('/assets/untitled_Artwork21.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bGImage {
+  position: absolute;
+  left: 875px;
+  top: 125px;
+  width: 415px;
+  height: 490px;
+  border-radius: 12px;
+  background-color: #c4c4c4;
+  background-image:/* webpackIgnore: true */ url('/assets/bGImage.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.uIElement1 {
+  position: absolute;
+  left: 779px;
+  top: 496px;
+  width: 432px;
+  height: 193px;
+  align-items: flex-start;
+}
+.bG {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 432px;
+  height: 193px;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0px 4px 40px 0px #8a8a8a0a;
+}
+.checkmark {
+  position: absolute;
+  left: 31px;
+  top: 28px;
+  width: 64px;
+  height: 64px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.headline2 {
+  color: #20484f;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 114px;
+  top: 28px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mockupText {
+  position: absolute;
+  left: 121px;
+  top: 74px;
+  width: 273px;
+  height: 11px;
+  border-radius: 12px;
+  background-color: #20484f1a;
+}
+.mockupText2 {
+  position: absolute;
+  left: 121px;
+  top: 97px;
+  width: 182px;
+  height: 11px;
+  border-radius: 12px;
+  background-color: #20484f1a;
+}
+.fakeButton {
+  position: absolute;
+  left: 121px;
+  top: 132px;
+  width: 110px;
+  height: 37px;
+  border-radius: 8px;
+  background-color: #b8e4da;
+}
+.uIElement2 {
+  position: absolute;
+  left: 1023px;
+  top: 155px;
+  width: 389px;
+  height: 107px;
+  align-items: flex-start;
+}
+.bG2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 389px;
+  height: 107px;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0px 4px 40px 0px #8a8a8a0a;
+}
+.avatar {
+  position: absolute;
+  left: 21px;
+  top: 17px;
+  width: 73px;
+  height: 73px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.headline3 {
+  color: #072125;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 113px;
+  top: 20px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.subheading {
+  color: #20484f;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 115px;
+  top: 57px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

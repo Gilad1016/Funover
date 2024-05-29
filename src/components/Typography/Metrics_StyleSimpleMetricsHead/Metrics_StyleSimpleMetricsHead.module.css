@@ -1,0 +1,250 @@
+.buttons.buttons {
+  left: 1184px;
+  top: 101px;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 547px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.metric1 {
+  position: absolute;
+  left: 134px;
+  top: 254px;
+  width: 216px;
+  height: 156px;
+  align-items: flex-start;
+}
+.cupsOfCoffee {
+  color: #072125;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  bottom: 36px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._32 {
+  color: #20484f;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.designingThisSection {
+  color: #072125;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 216px;
+  height: min-content;
+  flex-direction: column;
+}
+.metric2 {
+  position: absolute;
+  left: 747px;
+  top: 254px;
+  width: 216px;
+  height: 156px;
+  align-items: flex-start;
+}
+.languagesSpoken {
+  color: #072125;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  bottom: 36px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._17 {
+  color: #20484f;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.onOurTableInThePub {
+  color: #072125;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 216px;
+  height: min-content;
+  flex-direction: column;
+}
+.metric3 {
+  position: absolute;
+  left: 444px;
+  top: 254px;
+  width: 216px;
+  height: 156px;
+  align-items: flex-start;
+}
+.teamMembers {
+  color: #072125;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  bottom: 36px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._412 {
+  color: #20484f;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.workingRightNow {
+  color: #072125;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 216px;
+  height: min-content;
+  flex-direction: column;
+}
+.metric4 {
+  position: absolute;
+  left: 1053px;
+  top: 254px;
+  width: 216px;
+  height: 156px;
+  align-items: flex-start;
+}
+.dollarsSpentToday {
+  color: #072125;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  bottom: 36px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._2142 {
+  color: #20484f;
+  font-size: 64px;
+  line-height: 120%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.onKhachapuriImeruli {
+  color: #072125;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 216px;
+  height: min-content;
+  flex-direction: column;
+}
+.someOfOurMilestones {
+  color: #072125;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 78px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.weVeBeenReallyBusyThisYearMaki {
+  color: #072125;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 134px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.divider {
+  position: absolute;
+  left: 120px;
+  top: 216px;
+  width: 1200px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  outline: solid 1px #072125;
+}
